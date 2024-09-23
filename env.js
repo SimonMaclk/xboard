@@ -2,13 +2,13 @@
 window.routerBase = 'https://cloudxyz.top/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: '声鸽',
   // 站点描述
-  description: 'Xboard',
+  description: '声鸽传信，绿路万里，一方通达',
   assets_path: '/assets',
   // 主题色
   theme: {
-    color: 'default', //可选default、blue、black、、darkblue
+    color: 'blue', //可选default、blue、black、、darkblue
   },
   // 版本号
   version: '0.1.1-dev',
