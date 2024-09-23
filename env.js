@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'http://xx.cloudxyz.top/'
+window.routerBase = 'https://cloudxyz.top/'
 window.settings = {
   // 站点名称
   title: 'Xboard',
